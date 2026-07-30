@@ -26,7 +26,7 @@ Python · FastAPI · asyncio · SQLite/PostgreSQL · Docker · Git · JavaScript
 
 **MyCRM Ecosystem** — 8 interconnected tools for freelance automation (Kabanchik.ua):
 
-https://youtu.be/uaiqbKxycTw
+[![MyCRM Ecosystem Demo](https://img.youtube.com/vi/uaiqbKxycTw/0.jpg)](https://youtu.be/uaiqbKxycTw)
 
 | Project | Description |
 |---------|-------------|

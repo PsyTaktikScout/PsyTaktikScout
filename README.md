@@ -1,30 +1,47 @@
 # Yevhen Holub
 
-**AI-Assisted Developer | Automation Engineer | Python**
+## Hi, I'm a Python Developer focused on Automation and AI-Assisted Development
 
-I build software with a human-AI collaborative workflow: I define the architecture and logic, AI generates the code, and I verify, test, and refine until it's production-ready.
+I build practical tools that automate workflows, connect services, process data, and turn ideas into working systems.
 
-### Stack
+My development journey began with Pascal and Delphi, later included C++, MQL4, and Python. Python has been my main tool for the last several years.
 
-Python · FastAPI · asyncio · SQLite/PostgreSQL · Docker · Git · JavaScript/HTML
+## What I work with
 
-### How I work
+* **Python** — automation, backend services, data processing, integrations, and tooling
+* **AI-assisted development** — using coding agents to accelerate implementation while retaining responsibility for architecture, review, testing, debugging, and integration
+* **LLM applications** — agent workflows, task decomposition, evaluation pipelines, and multi-provider integrations
+* **APIs and backend** — FastAPI, asynchronous Python, Telegram, Google Sheets, Grist, SQLite, PostgreSQL, and Docker
 
-1. **Specification** — I break down problems into clear algorithms and logic
-2. **AI generation** — AI writes code against the spec
-3. **Review & refine** — I audit the output, learn what I don't know, and iterate
-4. **Ship** — tested, documented, delivered
+## Selected projects
+
+### MyCRM Ecosystem
+
+A collection of interconnected tools built around a real workflow: task monitoring, data synchronization, LLM-based evaluation, Telegram notifications, and long-running process supervision.
+
+### Task Atomizer
+
+An experimental multi-agent system that transforms broad requests into smaller, actionable tasks. It explores task decomposition, uncertainty detection, clarification workflows, agent orchestration, multi-model integration, and failure handling.
+
+### Other Automation Tools
+
+Projects involving rental monitoring, web data collection, asynchronous processing, browser extensions, and workflow support.
+
+## How I work
+
+I start by understanding the practical problem, break it into testable parts, design an appropriate solution, and iterate through testing and real use.
+
+AI is part of my development workflow—not a replacement for understanding the problem or taking responsibility for the result.
+
+## Interested in
+
+Python development · Business process automation · AI and LLM integrations · Agent-based systems · API integrations · Internal tools · Rapid prototyping
+
+**Open to remote opportunities and collaboration.**
 
 ### Portfolio
 
-| Project | Description |
-|---------|-------------|
-| [**task-atomizer**](https://github.com/PsyTaktikScout/task-atomizer) | LangGraph task decomposition engine with multi-LLM failover (Groq, OpenAI, Ollama) |
-| [**spain-rental-monitor**](https://github.com/PsyTaktikScout/spain-rental-monitor) | Spanish property scraper with price tracking and Telegram alerts |
-| [**tg_bot_crm2**](https://github.com/PsyTaktikScout/tg_bot_crm2) | AI-assisted Telegram CRM bot for freelance client management |
-| [**LandingWebDevYevhenHolub**](https://github.com/PsyTaktikScout/LandingWebDevYevhenHolub) | Portfolio landing page — HTML/CSS |
-
-**MyCRM Ecosystem** — 8 interconnected tools for freelance automation (Kabanchik.ua):
+**MyCRM Ecosystem** — 8 interconnected tools for freelance automation (Kabanchik.ua+):
 
 [![MyCRM Ecosystem Demo](MyCRM.jpeg)](https://youtu.be/uaiqbKxycTw)
 
@@ -38,3 +55,10 @@ Python · FastAPI · asyncio · SQLite/PostgreSQL · Docker · Git · JavaScript
 | [**MyCRM_ObkhodKabanchika**](https://github.com/PsyTaktikScout/MyCRM_ObkhodKabanchika) | Async crawler + 5-stage LLM evaluation pipeline |
 | [**MyCRM_PageDataSaver**](https://github.com/PsyTaktikScout/MyCRM_PageDataSaver) | Chrome MV3 extension for automatic web data collection |
 | [**MyCRM_ProcessRestarter**](https://github.com/PsyTaktikScout/MyCRM_ProcessRestarter) | Adaptive supervisor for long-running Python processes |
+
+| Project | Description |
+|---------|-------------|
+| [**task-atomizer**](https://github.com/PsyTaktikScout/task-atomizer) | LangGraph task decomposition engine with multi-LLM failover (Groq, OpenAI, Ollama) |
+| [**spain-rental-monitor**](https://github.com/PsyTaktikScout/spain-rental-monitor) | Spanish property scraper with price tracking and Telegram alerts |
+| [**tg_bot_crm2**](https://github.com/PsyTaktikScout/tg_bot_crm2) | AI-assisted Telegram CRM bot for freelance client management |
+| [**LandingWebDevYevhenHolub**](https://github.com/PsyTaktikScout/LandingWebDevYevhenHolub) | Portfolio landing page — HTML/CSS |

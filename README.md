@@ -8,10 +8,11 @@ My development journey began with Pascal and Delphi, later included C++, MQL4, a
 
 ## What I work with
 
-* **Python** — automation, backend services, data processing, integrations, and tooling
-* **AI-assisted development** — using coding agents to accelerate implementation while retaining responsibility for architecture, review, testing, debugging, and integration
-* **LLM applications** — agent workflows, task decomposition, evaluation pipelines, and multi-provider integrations
-* **APIs and backend** — FastAPI, asynchronous Python, Telegram, Google Sheets, Grist, SQLite, PostgreSQL, and Docker
+* **Python** — automation, data processing, integrations, and tooling
+* **API integrations** — Telegram, Google Sheets, Grist, and other external services
+* **LLM applications** — practical workflows around LLM APIs, agent-based pipelines, multi-provider integrations
+* **AI-assisted development** — specification-driven workflows with coding agents; responsible for architecture, code review, testing, debugging, and integration
+* **Tooling** — Git, Linux, basic Docker (can containerize and run applications)
 
 ## Selected projects
 

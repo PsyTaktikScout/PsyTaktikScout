@@ -12,7 +12,7 @@ My development journey began with Pascal and Delphi, later included C++, MQL4, a
 * **API integrations** — Telegram, Google Sheets, Grist, and other external services
 * **LLM applications** — practical workflows around LLM APIs, agent-based pipelines, multi-provider integrations
 * **AI-assisted development** — specification-driven workflows with coding agents; responsible for architecture, code review, testing, debugging, and integration
-* **Tooling** — Git, Linux, basic Docker (can containerize and run applications)
+* **Tooling** — basic Git, basic Docker (can containerize and run applications)
 
 ## Selected projects
 

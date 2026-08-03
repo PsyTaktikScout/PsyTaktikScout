@@ -2,6 +2,10 @@
 
 ## Hi, I'm a Python Developer focused on Automation and AI-Assisted Development
 
+**📄 [Resume (PDF)](CV_Yevhen_Holub_2026-08-01.docx.pdf)**
+
+📞 [+34 607 197 431](tel:+34607197431) · ✉️ [psytaktikscout@gmail.com](mailto:psytaktikscout@gmail.com) · [Telegram](https://t.me/YevhenHolub) · [WhatsApp](https://wa.me/34607197431) · [LinkedIn](https://www.linkedin.com/in/yevhen-holub/) · [GitHub](https://github.com/PsyTaktikScout)
+
 I build practical tools that automate workflows, connect services, process data, and turn ideas into working systems.
 
 My development journey began with Pascal and Delphi, later included C++, MQL4, and Python. Python has been my main tool for the last several years.
